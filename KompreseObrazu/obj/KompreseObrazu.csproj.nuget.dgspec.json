@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj": {}
+    "C:\\Users\\MatyášMagera\\Documents\\GitHub\\cv-komprese-obrazu-v2-matyasmagera\\KompreseObrazu\\KompreseObrazu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj": {
+    "C:\\Users\\MatyášMagera\\Documents\\GitHub\\cv-komprese-obrazu-v2-matyasmagera\\KompreseObrazu\\KompreseObrazu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj",
+        "projectUniqueName": "C:\\Users\\MatyášMagera\\Documents\\GitHub\\cv-komprese-obrazu-v2-matyasmagera\\KompreseObrazu\\KompreseObrazu.csproj",
         "projectName": "KompreseObrazu",
-        "projectPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\KompreseObrazu.csproj",
-        "packagesPath": "C:\\Users\\MartinKapcala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\PG\\Komprese-obrazu\\KompreseObrazu\\obj\\",
+        "projectPath": "C:\\Users\\MatyášMagera\\Documents\\GitHub\\cv-komprese-obrazu-v2-matyasmagera\\KompreseObrazu\\KompreseObrazu.csproj",
+        "packagesPath": "C:\\Users\\MatyášMagera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MatyášMagera\\Documents\\GitHub\\cv-komprese-obrazu-v2-matyasmagera\\KompreseObrazu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MartinKapcala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MatyášMagera\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
